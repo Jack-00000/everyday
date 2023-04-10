@@ -7,4 +7,3 @@ elsif apple == "Nagano"
 else
     puts "このリンゴは青森県産でも長野県産でもありません。"
 end
-
